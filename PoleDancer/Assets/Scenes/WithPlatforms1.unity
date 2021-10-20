@@ -6068,6 +6068,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 65702495048144492, guid: 677389e1225e442b08c7dda481a5101a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 677389e1225e442b08c7dda481a5101a, type: 3}
       propertyPath: m_Name
       value: Pole
