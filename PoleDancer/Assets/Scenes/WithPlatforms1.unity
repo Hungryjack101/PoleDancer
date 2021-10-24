@@ -2439,7 +2439,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &706739861 stripped
 GameObject:
@@ -7257,6 +7257,63 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 3525479140033381557, guid: c7a2fb9f172924d8391fed75d4168feb, type: 3}
+--- !u!1001 &2080377641
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.3892179
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 195.19836
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
+      propertyPath: m_Name
+      value: LightOn
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 994c7ae2e7f4c43b080cbf26d812ca3e, type: 3}
 --- !u!1001 &2086015620
 PrefabInstance:
   m_ObjectHideFlags: 0
